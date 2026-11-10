@@ -6,7 +6,7 @@ This project was developed as part of the advanced-level **Prompt Engineering an
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Automated Document Classification:** Accurately categorizes short business documents into four core types—*Request* (`zahtev`), *Minutes* (`zapisnik`), *Memo* (`dopis`), and *Offer* (`ponuda`)—or flags them as *Unknown* (`nepoznato`) without forced categorization.
 - **Structured Data Extraction:** Extracts key entities and metadata into a standardized JSON format, including document date (`YYYY-MM-DD`), organizations, participants, detailed tasks (with activity, responsible party, and deadline), and identified conflicts.
@@ -17,7 +17,7 @@ This project was developed as part of the advanced-level **Prompt Engineering an
 
 ---
 
-## 🛠️ Project Architecture & Workflow
+## Project Architecture & Workflow
 
 The pipeline decouples the document analysis task into distinct, manageable components to ensure high accuracy and reliable validation:
 
@@ -29,7 +29,7 @@ The pipeline decouples the document analysis task into distinct, manageable comp
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.12+
 - **Environment:** Jupyter Notebook (`.ipynb`)
@@ -39,7 +39,7 @@ The pipeline decouples the document analysis task into distinct, manageable comp
 
 ---
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -66,7 +66,7 @@ The pipeline decouples the document analysis task into distinct, manageable comp
 
 ---
 
-## 📊 Test Cases & Evaluation
+## Test Cases & Evaluation
 
 The system was rigorously tested across five synthetic benchmark documents (`D1`–`D5`) covering edge cases:
 - **D1 (Complete Request):** Full data extraction, successful classification (`ok`).
