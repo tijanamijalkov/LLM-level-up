@@ -84,4 +84,4 @@ Compared to a baseline single-prompt approach, the multi-step workflow guarantee
 * **Vera Vlaški** ([@veravlashki](https://github.com/veravlashki))
 * **Tijana Mijalkov** ([@tijanamijalkov](https://github.com/tijanamijalkov))
 * **Jelena Vu;kovi'** ([@jelennavuckovic](https://github.com/jelennavuckovic))'
-* **Tamara ** ({}())
+* **Tamara Jerotijević** ([@tamarajerotijevic](https://github.com/tamarajerotijevic))
